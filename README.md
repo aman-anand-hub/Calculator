@@ -4,4 +4,5 @@
 1) HTML
 2) CSS
 3) JS
-* Evaluating calculations with the eval in built function in JavaScript.
+* Evaluating calculations with the eval inbuilt function in JavaScript.
+* Project Link: https://radiant-griffin-392fef.netlify.app/
